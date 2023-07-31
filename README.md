@@ -32,11 +32,11 @@ The system consists of the following components:**
 # Team Members
 <br><br>
 
-|Name | Sec. |
-|-----------------|-----------------|
-| Osamah Faisl | 1 | 
-| Shuaib Abdulsalam | 1 | 
-| Bassma Alaa | 1 |
-| Mariam Mounier| 2 |
+| N             | Name          |
+| ------------- | ------------- |
+| 1             | Osamah Faisal |
+| 2             | Shuaib Abdulsalam  |
+| 3             | Bassma Alaa |
+| 4             | Mariam Mounier |
 
 
