@@ -24,7 +24,7 @@ The system consists of the following components:**
 
 <br>
 
-![Vehicle-door-handle-control-unit](vechile.gif)
+
 
 
 <br>
