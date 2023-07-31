@@ -19,10 +19,6 @@ The system consists of the following components:**
 |Closing the door           |Vehicle door is unlocked and the door is open.     | Door lock button is pressed         | Vehicle door is unlocked and the door is closed        | Vehicle lock LED is off. Hazard LED is off. Ambient light LED is on for one second and then is off.         |
 | Locking the door           | Vehicle door is unlocked and the door is closed      | Door handle lock button is pressed         | Vehicle door is locked and the door is closed         | Vehicle lock LED is off. Hazard LED is blinking two times 0.5 second high and 0.5 second low for each blink, Ambient light LED is off.        |
 
-<br>
-
-![Vehicle-door-handle-control-unit](vechile.gif)
-
 
 <br>
 # Team Members
@@ -33,6 +29,12 @@ The system consists of the following components:**
 | Shuaib Abdulsalam | 1 | 48 |
 | Bassma Alaa | 1 | 20 |
 | Mariam Mounier| 2 |35 |
+
+<br>
+
+![Vehicle-door-handle-control-unit](vechile.gif)
+
+
 
 
 
